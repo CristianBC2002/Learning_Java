@@ -11,7 +11,7 @@ double altura;
 
 
 //Creamos un constructor: 
-//*Básicamente sirve para inicializar las variables de la clase "crea_rectangulo
+//*Básicamente sirve para inicializar las variables de la clase "crea_rectangulo"
 //*Se deben llamar igual que el nombre de la clase
 crea_rectangulo(){
 base = 1;

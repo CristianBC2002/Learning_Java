@@ -20,7 +20,7 @@ public class usa_rectangulo {
     r1.altura = 2.5;
     r1.base = 4;
     System.out.println("Area rectangulo R1");
-    //Usaremos la función calcularArea() en el objeto 1
+    //Usaremos la función calcularArea() en el objeto R1
     r1.calcularArea();
     
     rectan.altura = 3;
