@@ -33,5 +33,7 @@ double calcularPerimetro(){
 double perimetro= (2*base) + (2*altura);
 System.out.println("El perimetro es: " +perimetro);
 return perimetro;
+   
+        
 }
 }

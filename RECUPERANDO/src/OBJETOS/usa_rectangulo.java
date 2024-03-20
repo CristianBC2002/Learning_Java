@@ -16,7 +16,8 @@ public class usa_rectangulo {
        
     //Ahora vamos a usar la clase (crea_rectangulo) en los objetos creados arriba
     double perim;
-            
+         
+    //Asigna el valor x" a la variable de instancia base del objeto r1
     r1.altura = 2.5;
     r1.base = 4;
     System.out.println("Area rectangulo R1");
@@ -35,6 +36,5 @@ public class usa_rectangulo {
     rectan.calcularPerimetro();
     
     
-    //DATO CURIOSO: El motivo por el que no uso tildes no es por paleto, sino por qué genera errores en el codigo
-    }
+   }
 }
