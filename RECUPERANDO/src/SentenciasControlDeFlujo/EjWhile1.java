@@ -20,7 +20,7 @@ public class EjWhile1 {
         
         //Si queremos que el while no se ejecute en bucle (solo una vez), ponemos break al final de la sentencia:
         //break;
-        
+        //
         
         }
            
